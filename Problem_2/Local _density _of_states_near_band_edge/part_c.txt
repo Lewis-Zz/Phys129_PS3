@@ -1,0 +1,1 @@
+The sub-region of interest may correspond to a local domain within the Moiré superlattice where the atomic registry favors certain electron orbitals. As a result, states in that sub-region could experience a different local potential, leading to enhanced (or suppressed) LDOS relative to other areas.
